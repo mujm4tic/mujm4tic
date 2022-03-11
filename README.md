@@ -2,9 +2,9 @@
 
 I'm Mujtaba, an aspiring SDET. This profile contains all my latest SDET training and personal projects. 
 
-- 🔭 Currently working on a few mini Java programes and tests, so do have a look! My latest 
+- 🔭 Currently working on a few mini Java programes and tests, so do have a look [at the repo](https://github.com/mujm4tic/SG-E107-JavaProjects)! My latest 
  
-- 🌱 Learning Java code, software development, and testing principles. Also learning arabic :sunglasses:
+- 🌱 Training Java code, software development, and testing principles. Also learning Arabic :sunglasses:
 
 - 📫 Reach out to me on [Linked In](https://www.linkedin.com/in/mujtabamoosavi/)
 
